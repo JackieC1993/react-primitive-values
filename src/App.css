@@ -1,0 +1,31 @@
+.app {
+  height: 100vh;
+}
+
+.skyblue {
+  background-color: skyblue;
+}
+
+.papayawhip {
+  background-color: papayawhip;
+}
+.thistle {
+  background-color: thistle;
+}
+.peachpuff {
+  background-color: peachpuff;
+}
+.lightgoldenrodyellow {
+  background-color: lightgoldenrodyellow;
+}
+.paleturquoise {
+  background-color: paleturquoise;
+}
+
+.white-text{
+  color: white;
+}
+
+.black-text{
+  color: black;
+}
